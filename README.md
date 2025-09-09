@@ -49,3 +49,61 @@ The findings are presented through clear visualizations to help illustrate how l
 
 PROCESSES
 
+To explore obesity, overweight, and salt intake trends in Nigeria, I followed these main steps:
+
+Data Collection
+
+Pulled publicly available data from the WHO NCD Data Portal
+.
+
+Focused on indicators related to:
+
+Obesity and overweight (adults 18+)
+
+Mean salt intake (adults 25+)
+
+Data Cleaning
+
+Removed empty or irrelevant columns (e.g., notes, missing region info).
+
+Converted year values to proper numeric format.
+
+Filtered the dataset to focus only on Nigeria and the indicators of interest.
+
+Exploratory Analysis (EDA)
+
+Calculated yearly averages for obesity, overweight, and salt intake.
+
+Looked at gender differences, especially for obesity/overweight.
+
+Compared salt intake levels across men and women.
+
+Visualization
+
+Created line charts to show trends in obesity and overweight among adults.
+
+Built bar plots to highlight gender differences in obesity/overweight.
+
+Plotted salt intake by year and gender to track changes over time.
+
+Interpretation
+
+Drew insights from the graphs to understand how lifestyle risk factors are shifting in Nigeria.
+
+Highlighted what this means for public health awareness and policy.
+
+TOOLS AND LIBRARIES
+
+To explore and analyze the data, I used a mix of tools that made the process smooth:
+
+Python 🐍 — my main programming language for cleaning, analyzing, and visualizing the data.
+
+Pandas — for handling and transforming the dataset (filtering, grouping, summarizing).
+
+Matplotlib & Seaborn — to create clear and insightful charts that show trends and gender differences.
+
+Jupyter Notebook — for running step-by-step analysis, documenting my thought process, and visualizing results interactively.
+
+GitHub — to keep the project organized and share my work openly with others.
+
+These tools allowed me to go from raw CSV data to meaningful insights that can inform public health discussions in Nigeria.
