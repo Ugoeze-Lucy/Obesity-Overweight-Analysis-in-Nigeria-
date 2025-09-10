@@ -1,5 +1,18 @@
 # Obesity-Overweight-Analysis-in-Nigeria-
-Public health data project analyzing obesity and Overweight in Nigeria with Python.
+
+TABLE OF CONTENT
+
+-[DESCRIPTION](description)
+
+-[INTRODUCTION](introduction)
+
+-[AIM](aim)
+
+-[OVERVIEW](overview)
+
+-[PROCESSES](processes)
+
+-[TOOLS AND LIBRARIES](tools-and-libraries)
 
 DESCRIPTION 
 
@@ -106,3 +119,4 @@ Jupyter Notebook: for running step-by-step analysis, documenting my thought proc
 GitHub: to keep the project organized and share my work openly with others.
 
 These tools allowed me to go from raw CSV data to meaningful insights that can inform public health discussions in Nigeria.
+
