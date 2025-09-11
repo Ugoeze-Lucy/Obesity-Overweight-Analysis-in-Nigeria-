@@ -1,5 +1,9 @@
 # Obesity-Overweight-Analysis-in-Nigeria-
 
+TABLE OF CONTENT
+
+[DESCRIPTION](description)
+
 DESCRIPTION
 
 This project explores the trends of obesity, overweight, and Salt Intake in Nigeria.
